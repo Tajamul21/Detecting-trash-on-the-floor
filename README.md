@@ -1,0 +1,2 @@
+# Detecting-trash-on-the-floor
+The robot needed to detect trash on the floor and pick it up. The trash consisted of items such as crumpled tissue paper, paper cups, and cans. However, it was assumed that the type of trash was known and it was identified by features such as color, texture, shape, and hardness. The robot needed to apply different techniques for picking up the trash depending on the type of trash. This task was limited to detecting different types of trash on the floor and also detecting the dustbin.
